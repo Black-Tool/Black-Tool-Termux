@@ -28,7 +28,7 @@ This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
 **Installing**
 ```
-git clone https://github.com/mrprogrammer2938/Black-Tool-Termux
+git clone https://github.com/Black-Tool/Black-Tool-Termux
 
 cd Black-Tool-Termux
 
